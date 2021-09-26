@@ -1,5 +1,3 @@
-たいやきのしっぽまでギチギチにアンコを詰める手法を研究しています。
-
 ![](https://github-readme-stats.mohemohe.vercel.app/api?username=mohemohe&show_icons=true&count_private=true)
 ![](https://github-readme-stats.mohemohe.vercel.app/api/wakatime?username=mohemohe&layout=compact)  
 ![](https://github-profile-trophy.vercel.app/?username=mohemohe&column=7)
