@@ -1,5 +1,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=mohemohe&show_icons=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=mohemohe&layout=compact)  
+![](https://github-readme-stats.vercel.app/api/wakatime?username=mohemohe&layout=compact&langs_count=10)  
 ![](https://github-profile-trophy.vercel.app/?username=mohemohe&column=7)
 
 ----
