@@ -3,7 +3,7 @@
   <img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=mohemohe&layout=compact&langs_count=8" />
 </span>
 <span>
-  <img width="827px" src="https://github-profile-trophy.vercel.app/?username=mohemohe&column=8" />
+  <img width="826px" src="https://github-profile-trophy.vercel.app/?username=mohemohe&column=8" />
 </span>
 
 ----
