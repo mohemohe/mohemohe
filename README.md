@@ -1,6 +1,6 @@
 <span>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=mohemohe&show_icons=true&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/wakatime?username=mohemohe&layout=compact&langs_count=8" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=mohemohe&show_icons=true&count_private=true" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=mohemohe&layout=compact&langs_count=8" />
 </span>
 <span>
   <img src="https://github-profile-trophy.vercel.app/?username=mohemohe&column=7" />
