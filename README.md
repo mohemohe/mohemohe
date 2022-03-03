@@ -6,7 +6,7 @@
   <img width="826px" src="https://github-profile-trophy.vercel.app/?username=mohemohe&column=8" />
 </span>
 
-Curriculum vitae: [published on Findy](https://findy-code.io/share_profiles/A_ZzVYhkloCFA) (Japanese)
+Curriculum vitae: [available on Findy](https://findy-code.io/share_profiles/A_ZzVYhkloCFA) (Japanese)
 
 ----
 
